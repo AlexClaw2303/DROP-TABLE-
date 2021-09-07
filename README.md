@@ -1,2 +1,2 @@
 # DROP-TABLE-
-https://www.minecraft.net/ru-ru
+🔗https://www.minecraft.net/ru-ru
