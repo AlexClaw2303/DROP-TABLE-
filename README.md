@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=600px src="assets\images\mineit.png" alt="Project logo"></a>
+ <img width=800px src="assets\images\mineit.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Тестировние игры Minecraft (команда DROP TABLE *)</h3>
@@ -26,6 +26,8 @@
 
 - [Описание](#getting_started)
 - [Getting started](#getting_started)
+- [UseCase](#use_case)
+
 ## Описание  <a name = "description"></a>
 <p style="text-align: center;">Игры Minecraft  –  это уникальная пиксельная вселенная с огромным разнообразием жанров, карт, возможностей и режимов. Майнкрафт – представляет собой песочницу, открытый мир для выживания, творчества, приключений. Майнкрафт не ограничивает игрока в действиях, не ставит ему жестких целей и задач, поэтому каждый найдет для себя что-то подходящее – от простого развлечения до серьезного программирования.</p>
 
@@ -43,6 +45,11 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 Запустите созданный на рабочем столе ярлык.
 
 
+## Use Case <a name = "use_case"></a>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=800px src="assets\images\diagram.png" alt="Project logo"></a>
+</p>
 
 ## ✍️ Authors <a name = "authors"></a>
 
