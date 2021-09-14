@@ -54,7 +54,8 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 
 
 ## Баги <a name = "bugs"></a>
-1.
+### Функциональные баги
+1.  [Левитирующий песок](https://github.com/AlexClaw2303/DROP-TABLE-/issues/1)
 2.
 ## ✍️ Authors <a name = "authors"></a>
 
