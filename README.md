@@ -56,6 +56,6 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 - [@mentoster](https://github.com/mentoster) - Макаров Дмитрий
 - [@Euryalle](https://github.com/Euryalle) - Хохлов Дмитрий
 - [@UDQD](https://github.com/UDQD) - Миронов Алексей
-- [@AlexClaw2303](https://github.com/AlexClaw2303) - Замошников александр
+- [@AlexClaw2303](https://github.com/AlexClaw2303) - Замошников Александр
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
