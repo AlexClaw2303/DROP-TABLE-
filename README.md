@@ -95,6 +95,8 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 1.  [Левитирующий песок](https://github.com/AlexClaw2303/DROP-TABLE-/issues/1)
 2.  [Ковра хватит всем, спасибо разработчикам](https://github.com/AlexClaw2303/DROP-TABLE-/issues/7)
 3.  [Лава прозрачнее воды?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/5)
+4.  [Бесконечные рельсы](https://github.com/AlexClaw2303/DROP-TABLE-/issues/8)
+5.  [Дюп крюков](https://github.com/AlexClaw2303/DROP-TABLE-/issues/9)
 
 ### Логические ошибки
 1.  [Огонь в майнкрафте опаснее лавы?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/2)
