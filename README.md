@@ -57,7 +57,7 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 1. Одиночная игра
 2. Сетевая игра
 3. Minecraft Realms
-Так же игроку доступны настройки и выход из игры.
+Также игроку доступны настройки и выход из игры.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px src="https://sun9-32.userapi.com/impg/sNiytLcQfTHzb6oC1C9CYKVS77IXtL0Kfc5x-A/CBjMHMH8BKU.jpg?size=1919x1079&quality=96&sign=9329ec6f169f3a977fb4c6f63d24be6b&type=album" alt="Project logo"></a>
