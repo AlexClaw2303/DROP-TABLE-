@@ -17,7 +17,7 @@
 
 <p align="center">Наш проект заключается в тестировании на баги игры minecraft версии 1.17.1.
 
- 
+
 
 </p>
 
@@ -93,13 +93,14 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 ### Функциональные баги
 
 1.  [Левитирующий песок](https://github.com/AlexClaw2303/DROP-TABLE-/issues/1)
-2.  [Огонь в майнкрафте опаснее лавы?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/2)
-3.  [Тень горенью не помеха, если у вас не стоит на высоте 200 блоков защита](https://github.com/AlexClaw2303/DROP-TABLE-/issues/3)
-4.  [Стрела пробивает дерево, но не пробивает воздух](https://github.com/AlexClaw2303/DROP-TABLE-/issues/4)
-5.  [Лава прозрачнее воды?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/5)
-6.  [Что тяжелее? 10 наковален или игрок?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/6)
-7.  [Ковра хватит всем, спасибо разработчикам](https://github.com/AlexClaw2303/DROP-TABLE-/issues/7)
+2.  [Ковра хватит всем, спасибо разработчикам](https://github.com/AlexClaw2303/DROP-TABLE-/issues/7)
+3.  [Лава прозрачнее воды?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/5)
 
+### Логические ошибки
+1.  [Огонь в майнкрафте опаснее лавы?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/2)
+2.  [Тень горенью не помеха, если у вас не стоит на высоте 200 блоков защита](https://github.com/AlexClaw2303/DROP-TABLE-/issues/3)
+3.  [Стрела пробивает дерево, но не пробивает воздух](https://github.com/AlexClaw2303/DROP-TABLE-/issues/4)
+4.  [Что тяжелее? 10 наковален или игрок?](https://github.com/AlexClaw2303/DROP-TABLE-/issues/6)
 ## ✍️ Authors <a name = "authors"></a>
 
 * [@mentoster](https://github.com/mentoster) - Макаров Дмитрий
