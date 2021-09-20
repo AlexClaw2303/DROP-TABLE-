@@ -26,6 +26,7 @@
 
 - [Описание](#getting_started)
 - [Getting started](#getting_started)
+- [Функциональная спецификация](#func)
 - [UseCase](#use_case)
 - [Баги](#bugs)
 
@@ -44,7 +45,9 @@ Minecraft Java Edition 1.17.1 можно загрузить по этой ссы
 ## Запуск <a name = "usage"></a>
 
 Запустите созданный на рабочем столе ярлык.
+## Функциональная спецификация <a name = "func"></a>
 
+1. TODO: дописать
 
 ## Use Case <a name = "use_case"></a>
 <p align="center">
