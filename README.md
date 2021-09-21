@@ -9,7 +9,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues-raw/AlexClaw2303/DROP-TABLE-)](https://github.com/AlexClaw2303/DROP-TABLE-/issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed/AlexClaw2303/DROP-TABLE-/closed?color=blue)](https://github.com/AlexClaw2303/DROP-TABLE-/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed/AlexClaw2303/DROP-TABLE-?color=blue)](https://github.com/AlexClaw2303/DROP-TABLE-/issues)
 
 </div>
 
